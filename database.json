@@ -1,22 +1,17 @@
 {
-  "6285124968804" : {
-    "nama" : "pteven" ,
-    "kata sandi" : "bilqis" ,
-    "registeredAt" : "2025-12-22T01:46:17.645Z"
-  } ,
-  "6285730817354" : {
-    "nama" : "Zylenzo" ,
-    "kata sandi" : "Jokowi" ,
-    "registeredAt" : "2025-12-22T05:17:33.481Z"
-  } ,
-  "60196134701" : {
-    "nama" : "Acap" ,
-    "kata sandi" : "Acdini" ,
-    "registeredAt" : "2025-12-22T09:31:19.672Z"
-  } ,
-  "6285792870512" : {
-    "nama" : "jokowi" ,
-    "kata sandi" : "banjir" ,
-    "registeredAt" : "2025-12-24T03:03:10.324Z"
+  "6285124968804": {
+    "nama": "pteven",
+    "kata sandi": "bilqis",
+    "registeredAt": "2025-12-22T01:46:17.645Z"
+  },
+  "60196134701": {
+    "nama": "Acap",
+    "kata sandi": "Acdini",
+    "registeredAt": "2025-12-22T09:31:19.672Z"
+  },
+  "6285792870512": {
+    "nama": "jokowi",
+    "kata sandi": "banjir",
+    "registeredAt": "2025-12-24T03:03:10.324Z"
   }
 }
