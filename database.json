@@ -1,22 +1,22 @@
 {
-  "6285697188376": {
-    "name": "ptevenstore",
-    "password": "lindungibilqis",
-    "registeredAt": "2025-12-22T01:46:17.645Z"
-  },
-  "6285730817354": {
-    "name": "Zylenzo",
-    "password": "Jokowi",
-    "registeredAt": "2025-12-22T05:17:33.481Z"
-  },
-  "60196134701": {
-    "name": "Acap",
-    "password": "Acdini",
-    "registeredAt": "2025-12-22T09:31:19.672Z"
-  },
-  "6285792870512": {
-    "name": "jokowi",
-    "password": "banjir",
-    "registeredAt": "2025-12-24T03:03:10.324Z"
+  "6285124968804" : {
+    "nama" : "ptevenstore" ,
+    "kata sandi" : "lindungibilqis" ,
+    "registeredAt" : "2025-12-22T01:46:17.645Z"
+  } ,
+  "6285730817354" : {
+    "nama" : "Zylenzo" ,
+    "kata sandi" : "Jokowi" ,
+    "registeredAt" : "2025-12-22T05:17:33.481Z"
+  } ,
+  "60196134701" : {
+    "nama" : "Acap" ,
+    "kata sandi" : "Acdini" ,
+    "registeredAt" : "2025-12-22T09:31:19.672Z"
+  } ,
+  "6285792870512" : {
+    "nama" : "jokowi" ,
+    "kata sandi" : "banjir" ,
+    "registeredAt" : "2025-12-24T03:03:10.324Z"
   }
 }
