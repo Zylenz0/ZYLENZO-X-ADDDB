@@ -4,7 +4,7 @@
     "kata sandi": "Acdini",
     "registeredAt": "2025-12-22T09:31:19.672Z"
   },
-  "6285730817354": {
+  "6285746418032": {
     "nama": "jokowi",
     "kata sandi": "banjir",
     "registeredAt": "2025-12-24T03:03:10.324Z"
@@ -13,5 +13,10 @@
     "name": "pteven",
     "password": "bilqis",
     "registeredAt": "2026-01-16T11:27:16.175Z"
+  },
+  "6285730817354": {
+    "name": "zylenzo",
+    "password": "jokowi",
+    "registeredAt": "2026-01-16T11:27:16.175Z
   }
 }
